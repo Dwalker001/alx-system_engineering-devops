@@ -1,2 +1,1 @@
-#!/bin/bash
-This repo contains scripts
+Taks 0. Where am I?
