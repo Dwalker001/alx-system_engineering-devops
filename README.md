@@ -1,1 +1,1 @@
-Taks 0. Where am I?
+There is no place like home.
